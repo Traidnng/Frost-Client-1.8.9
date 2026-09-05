@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">⚡ ClientName</h1>
+  <h1 align="center">🧊 FrostClient</h1>
   <p align="center">
     <b>Frost Client 1.8.9</b><br>
     Yüksek performans, temiz kod mimarisi ve modüler kontrol için tasarlandı.
