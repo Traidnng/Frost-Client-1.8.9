@@ -74,5 +74,5 @@ Bu yazılım yalnızca **eğitim, güvenlik araştırmaları ve özel sunucu tes
 ---
 
 <p align="center">
-  <b>Developed with ❤️ by Fiorith</b> • <i>Minecraft 1.8.9 Utility Project</i>
+  <b>Developed with 💙 by Fiorith</b> • <i>Minecraft 1.8.9 Frost Client Project</i>
 </p>
