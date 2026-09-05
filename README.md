@@ -22,27 +22,27 @@
   * `KillAura` — Çoklu hedef önceliği, CPS kontrolü ve hedef değiştirme gecikmesi.
   * `Velocity` — Yüzdelik bazda ayarlanabilir geriye savrulma (Knockback) engelleme.
   * `AutoClicker` — Rastgele CPS dalgalanmalarıyla insansı tıklama sistemi.
-  . . .
+  *Ve daha fazlası
 
 * **Hareket (Movement)**
   * `Flight` — Çeşitli bypass modları (Vanilla, Motion, Glide).
   * `Speed` — Sürtünme optimizasyonu ve zemin strafe geliştirmeleri.
   * `Sprint` — Otomatik ve her yöne kesintisiz koşma.
   * `NoSlow` — Eşya kullanırken (kılıç engeli, yemek, yay) yavaşlamayı önler.
-  . . . 
+  *Ve daha fazlası
 
 * **Görsel & Arayüz (Render & Visuals)**
   * `ESP` — 2D Kutular, 3D Kutular, Can barları ve Mesafe göstergeleri.
   * `Tracers` — Aktif oyunculara ve varlıklara çizgi yönlendirmeleri.
   * `Fullbright` — Gece görüşü ve karanlık alanlar için sabit maksimum parlaklık.
   * `HUD / Arraylist` — Aktif modülleri ve tuş atamalarını gösteren modern arayüz.
-  . . . 
+  *Ve daha fazlası
 
 * **Yardımcı Araçlar (Utility & World)**
   * `FastPlace` — Sağ tık gecikmesini kaldırarak hızlı blok koyma.
   * `ChestStealer` — Sandıklardaki eşyaları belirlenen gecikmeyle otomatik toplama.
   * `InventoryCleaner` — Gereksiz eşyaları temizleme ve en iyi zırhı otomatik giyme.
-  . . . 
+  *Ve daha fazlası
 
 ---
 
