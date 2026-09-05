@@ -25,14 +25,14 @@
   . . .
 
 * **Hareket (Movement)**
-  * `Fly` — Çeşitli bypass modları (Vanilla, Motion, Glide).
+  * `Flight` — Çeşitli bypass modları (Vanilla, Motion, Glide).
   * `Speed` — Sürtünme optimizasyonu ve zemin strafe geliştirmeleri.
   * `Sprint` — Otomatik ve her yöne kesintisiz koşma.
   * `NoSlow` — Eşya kullanırken (kılıç engeli, yemek, yay) yavaşlamayı önler.
   . . . 
 
 * **Görsel & Arayüz (Render & Visuals)**
-  * `ESP` — 2D Kutular, İskelet görünümü, Can barları ve Mesafe göstergeleri.
+  * `ESP` — 2D Kutular, 3D Kutular, Can barları ve Mesafe göstergeleri.
   * `Tracers` — Aktif oyunculara ve varlıklara çizgi yönlendirmeleri.
   * `Fullbright` — Gece görüşü ve karanlık alanlar için sabit maksimum parlaklık.
   * `HUD / Arraylist` — Aktif modülleri ve tuş atamalarını gösteren modern arayüz.
@@ -60,8 +60,8 @@
 ## ⚙️ Yapılandırma & Profil
 
 Özel konfigürasyonlar ve tuş haritaları ilk çalıştırmada otomatik olarak oluşturulur:
-* Config.json konumu: `.minecraft/clientname/config.json`
-Config.json konumu: `.minecraft/clientname/configs/..`
+* Config.json konumu: `.minecraft/frostclient/config.json`
+Configs konumu: `.minecraft/frostclient/configs/..`
 
 ---
 
