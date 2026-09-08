@@ -65,7 +65,7 @@ Configs konumu: `.minecraft/frostclient/configs/..`
 
 ---
 
-## ⚠️ Sorumluluk Reddi (Disclaimer)
+## ⚠️ Dikkat
 
 Bu yazılım yalnızca **eğitim, güvenlik araştırmaları ve özel sunucu testleri** amacıyla geliştirilmiştir.
 * Bu yazılımı kamuya açık çok oyunculu sunucularda kullanmak sunucu kurallarını ihlal edebilir ve hesabınızın yasaklanmasına (ban) yol açabilir.
