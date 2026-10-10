@@ -65,3 +65,18 @@
 ---
 
 ## 🏗️ Mimari & Kod Yapısı
+Frost-Client/ ├── src/ │ ├── client/ │ │ ├── event/ # EventBus & Event Listener Sistemi │ │ │ ├── events/ # Packet, Motion, Render, Key Events │ │ │ └── EventBus.java │ │ ├── module/ # Modül Yöneticisi & Kategoriler │ │ │ ├── combat/ │ │ │ ├── movement/ │ │ │ ├── render/ │ │ │ └── Module.java │ │ ├── ui/ # ClickGUI & HUD Render Motoru │ │ └── utils/ # RenderUtils, MathUtils, PacketUtils │ └── net/minecraft/ # Hook Entegre Edilmiş Minecraft Kaynağı
+
+---
+## 🛠️ Kurulum & Derleme
+### Gereksinimler
+- **JDK 8 (Java Development Kit 8)**
+- **IntelliJ IDEA** veya **Eclipse IDE**
+- **Minecraft Coder Pack (MCP 918)**
+### Adımlar
+```bash
+# 1. Repoyu klonlayın
+git clone https://github.com/Traidnng/Frost-Client-1.8.9.git
+# 2. Proje dizinine geçin
+cd Frost-Client-1.8.9
+# 3. IDE'nizde JDK 8 seçerek projeyi açın ve Start.java sınıfından başlatın
